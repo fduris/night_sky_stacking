@@ -171,7 +171,7 @@ This project is licensed under the [GPLv3 License](LICENSE).
 
 - Utilizes the [OpenCV](https://opencv.org/) library for image processing.
 - Star detection powered by [Photutils](https://photutils.readthedocs.io/en/stable/).
-- Raw image processing with [rawpy](https://rawpy.readthedocs.io/en/latest/).
+- Raw image processing with [rawpy](https://letmaik.github.io/rawpy/api/rawpy.RawPy.html).
 
 ## Disclaimer
 
