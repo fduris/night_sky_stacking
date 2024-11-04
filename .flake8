@@ -1,0 +1,3 @@
+[flake8]
+max-line-length = 120
+extend-ignore = E203, E501, B007, B009, B010, B011, B017, B019, B023, B027
